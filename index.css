@@ -1,0 +1,31 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+#information {
+  border-bottom: 3px solid black;
+  width: fit-content;
+}
+#experience {
+  border-bottom: 3px solid black;
+  width: fit-content;
+}
+#name {
+  border-bottom: 3px solid black;
+  width: fit-content;
+}
+#column {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  -webkit-column-gap: 22px;
+  -moz-column-gap: 22px;
+  column-gap: 22px;
+  -webkit-column-rule: 1px solid rgba(28, 110, 164, 0.62);
+  -moz-column-rule: 1px solid rgba(28, 110, 164, 0.62);
+  column-rule: 1px solid rgba(28, 110, 164, 0.62);
+}
+a {
+  text-decoration: none;
+  background-color: none;
+  color: black;
+}
