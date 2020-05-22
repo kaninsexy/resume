@@ -55,8 +55,8 @@ xdg-open https://www.8bitavenue.com/resume
 
 | Subject       | Description                 | Result |
 | ------------- | --------------------------- | ------ |
-| Front-end     | React,Vue                   | 0%     |
-| Back-end      | Node,Django,Nuxt            | 0%     |
+| Front-end     | React                   | 0%     |
+| Back-end      | Node,Django            | 0%     |
 | Database      | Anything else than Mongo DB | 0%     |
 | DevOps        | AWS                         | 0%     |
 | UX/UI Designs | Adobe XD                    | 0%     |
